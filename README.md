@@ -14,6 +14,7 @@
 ## Contributors
 
 - Gustavo Nocera Santiago ([@GustavoSantiago113](https://github.com/GustavoSantiago113))
+- Pedro Cisdeli ([@cisdei](https://github.com/cisdeli))
 
 ---
 
