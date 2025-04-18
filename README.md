@@ -11,6 +11,12 @@
 
 ---
 
+## Contributors
+
+- Gustavo Nocera Santiago ([@GustavoSantiago113](https://github.com/GustavoSantiago113))
+
+---
+
 ## Objective
 
 This study had the main objective to fill the research gap of using imagery obtained from smartphones to detect and segment sorghum panicles and also count the number of grains.It employed convolutional neural networks (CNNs)for effectively removing background under field conditions and counting sorghum grains. Therefore, the specific objectives included i) detect and segment sorghum panicles at field scale using imagery from a smartphone camera, ii) utilize segmented imagery to count the number of grains within manually segmented panicles, and iii) employ a linear model to estimate the total number of grains within a panicle based on the previous counting. Through this innovative approach, we aimed to provide the basis for the development of a mobile app to transfer this knowledge to the farm-level
